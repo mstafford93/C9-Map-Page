@@ -1,0 +1,149 @@
+body {
+    background-color: grey;
+    margin: 0px;
+}
+
+/*Navigation Styles*/
+
+nav {
+    display: flex;
+    background-color: rgb(73, 73, 73);
+    justify-content: space-between;
+    width: 100%;
+}
+
+.nav-left {
+    display: flex;
+
+}
+
+.nav-left h2 {
+    margin: 0.5rem;
+    color: aquamarine;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    align-self: center;
+}
+
+.nav-left ul {
+    display: flex;
+    align-self: center;
+}
+
+.nav-left li {
+    list-style: none;
+    margin-right: 1rem;
+    color: whitesmoke;
+}
+
+nav a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.nav-right {
+    justify-items: flex-end;
+    margin-right: 1rem;
+}
+
+.right-top {
+    color: whitesmoke;
+    margin-top: 0.25rem;
+}
+
+.right-bottom {
+    margin-top: 1rem;
+}
+
+.right-bottom a {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    border-right: 1px solid whitesmoke;
+}
+
+
+
+.right-bottom a:last-child {
+    border-right: none;
+}
+
+.right-bottom i {
+    margin-right: 0.25rem;
+}
+
+.search-bar {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(51, 51, 51);
+    color: whitesmoke;
+    padding-top: 0.5rem;
+}
+
+.search-left {
+    display: flex;
+    margin-left: 1rem;
+}
+
+.search-left div {
+    margin-left: 1rem;
+}
+
+
+.search-right {
+    display: flex;
+    align-items: center;
+    margin-right: 1rem;
+}
+
+.search-input{
+    justify-content: center;
+} /*Not centering text*/
+
+input {
+    width: 80%;
+    border-radius: 8px;
+}
+
+.search-right button {
+    height: 70%;
+    margin-right: 1rem;
+    border-radius: 5px;
+}
+
+.iframe {
+    height: 100vh;
+}
+
+.results {
+    display: flex;
+    
+}
+
+.results-text {
+    background-color: black;
+    width: 40vw;
+    height: 100vh;
+    overflow: scroll;
+}
+
+.house {
+    display: flex;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 5px;
+    margin: 1rem;
+    width: auto;
+
+}
+
+
+.house div {
+    margin: 0.5rem;
+}
+
+.house img {
+    width: 300px;
+    height: 200px;
+    align-self: center;
+}
