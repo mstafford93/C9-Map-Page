@@ -124,7 +124,8 @@ input {
     background-color: black;
     width: 40vw;
     height: 100vh;
-    overflow: scroll;
+    overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 .house {
