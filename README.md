@@ -4,8 +4,7 @@
 
 ![Screenshot Map Page](https://miro.medium.com/v2/resize:fit:720/format:webp/1*HyUpqLRSa8Cmw5E-1TyS8A.jpeg)
 <br>
-<a href="
- https://c9-map-page.vercel.app" target="_blank">Live Link Here</a>
+<a href="https://c9-map-page.vercel.app" target="_blank">Live Link Here</a>
 
 ## Overview
 
