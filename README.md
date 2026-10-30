@@ -1,22 +1,52 @@
-C9-Map-Page
-Challange 9 of 13 in my coding journey. Following the template provided in the repository.
+# Challenge 9 - Map Page
 
-Dependencies:
-  - HTML 5
-  - CSS
+## Preview
 
-Usage
-  - Run in a source-code text editor (e.g. Visual Studio Code) to view code
-  - Run in web browser to see website
+![Screenshot Map Page](https://miro.medium.com/v2/resize:fit:720/format:webp/1*HyUpqLRSa8Cmw5E-1TyS8A.jpeg)
+<br>
+<a href="https://landing-page-mstafford93.vercel.app/" target="_blank">Live Link Here</a>
 
-Configeration 
-  - No config needed
+## Overview
 
-Contributing Guidelines
-  - Project is an individual effort to showcase my skills
+To build a map page resembling Google Maps using HTML and CSS. Using a template image from 
 
-Credits
-  - Matthew Stafford
+## Features
+- Scroll feature to move search results on left side of page while keeping the map in focus.
+- Different input tags to narrow down search results.
+- Using iframes to implement maps.
 
-Licencing
-  - No licences
+## Technologies
+
+ - HTML5 for page structure.
+ - CSS3 for styling.
+
+
+## Installation
+Clone the repository:
+
+`git clone https://github.com/mstafford93/C9-Map-Page`
+
+Navigate to the project directory:
+
+`cd C9-Map-Page`
+
+Open `index.html` in your browser.
+
+No package installation is required.
+
+## Deployment
+
+The website is hosted on Vercel.
+
+Visit the live version here:
+
+https://c9-map-page.vercel.app
+
+## Credits
+
+By Matthew Stafford (Me)
+
+A Front-End Developer project to advertise myself and my skills
+
+
+
