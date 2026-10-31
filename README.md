@@ -8,7 +8,7 @@
 
 ## Overview
 
-To build a map page resembling Google Maps using HTML and CSS. Using a template image from 
+To build a map page resembling Google Maps using HTML and CSS. Using a template image from my course from ITonlinelearning.com
 
 ## Features
 - Scroll feature to move search results on left side of page while keeping the map in focus.
